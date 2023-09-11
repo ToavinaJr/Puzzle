@@ -1,5 +1,5 @@
 # SFML installation
-[https://www.sfml-dev.org/download.php](Download SFML)
+[Dowbload SFML](https://www.sfml-dev.org/download.php)
 
 # Compilation
 g++ -c *.cpp
